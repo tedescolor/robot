@@ -61,3 +61,4 @@ let next = first.move("Alice's House");
 console.log(next.place);
 console.log(next.parcels);
 console.log(first.place);
+console.log("this is a new branch of my repository, nothing else");
